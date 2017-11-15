@@ -20,13 +20,8 @@ Topic |
 |Reading File Information|
 |Combining commands|
 |Sorting and de­duping|
-||
-||
-||
-||
-||
-||
-||
-||
-
- 2  3  4  5  7  7  8  9  11  12  14  15  16  17  18  19 Terminal Tips and Tricks 20 Remote terminals 24 Other uses for SSH 25 Terminal multiplexing 26 What makes screen clever
+|Terminal Tips and Tricks|
+|Remote terminals|
+|Other uses for SSH|
+|Terminal multiplexing|
+|What makes screen clever|
